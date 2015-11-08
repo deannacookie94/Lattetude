@@ -1,0 +1,9 @@
+@chaeset "UTF-8";
+
+h1{
+	text-align: center;
+	font-family: 'Indie Flower', cursive;
+	font-weight: 100;
+	font-size: 60px;
+	color: #00000;
+}
